@@ -1,1 +1,1 @@
-# VacinePet
+# Astromaze
